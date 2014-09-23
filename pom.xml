@@ -74,4 +74,14 @@
 			</plugin>
 		</plugins>
 	</build>
+	<scm>
+		<url>https://github.com/lhfei/ajax-in-action.git</url>
+		<developerConnection>Hefei Li</developerConnection>
+	</scm>
+	<developers>
+		<developer>
+			<name>Hefei Li</name>
+			<email>lhfeilaile@gmail.com</email>
+		</developer>
+	</developers>
 </project>
